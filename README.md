@@ -139,7 +139,7 @@ export PATH="$HOME/.local/bin:$PATH"
 1. Clone the repository:
 ```bash
 git clone https://github.com/mioku50/my-nexus-nft-example.git
-cd nexus-nft-example
+cd my-nexus-nft-example
 ```
 
 2. Install dependencies:
