@@ -128,10 +128,17 @@ The `SimpleNFT` contract (`contracts/contracts/SimpleNFT.sol`) is designed with 
 - Firebase account (for image storage)
 
 ### Installation
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+source ~/.nvm/nvm.sh
+nvm install --lts
+nvm use --lts
+npm --version
+source /root/.bashrc
+export PATH="$HOME/.local/bin:$PATH"
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/nexus-xyz/nexus-nft-example.git
+git clone https://github.com/mioku50/nexus-nft-example.git
 cd nexus-nft-example
 ```
 
